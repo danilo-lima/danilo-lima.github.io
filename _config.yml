@@ -1,6 +1,6 @@
 # main text of home
 name: Danilo Lima
-bio: I'm a computer engineer. 
+bio: I'm a computer engineer. Yes! Keep coding!
 
 # twitter summary info
 description: A personal web page.
@@ -35,10 +35,10 @@ permalink: /:title/
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: d4nilolima
+#twitter: d4nilolima
 lattes: 3638519737081629
-# google: mygoogle
-instagram: danilolim4
+google: danilolima
+# instagram: danilolim4
 # pinterest: mypinterest
 linkedin: danilo-lima
 # youtube: myyoutube
